@@ -34,7 +34,7 @@ Problems are organized by category:
 
 Each problem:
 - Is stored in its own folder
-- Has a descriptive name (e.g., `print-negative-numbers`)
+- Has a descriptive name (e.g., `two-sum`)
 - Contains a problem description inside the code
 
 ---
