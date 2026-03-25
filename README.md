@@ -42,13 +42,13 @@ Each problem:
 ## 📈 Progress
 
 | Category       | Problems Solved |
-|---------------|----------------|
-| Arrays        | 11             |
-| Conditionals  | 0              |
-| Loops         | 0              |
-| Math          | 0              |
-| Searching     | 0              |
-| Misc          | 0              |
+|---------------|-----------------|
+| Arrays        | 11              |
+| Conditionals  | 0               |
+| Loops         | 1               |
+| Math          | 0               |
+| Searching     | 0               |
+| Misc          | 0               |
 
 > This repository is continuously updated as I solve new problems.
 
