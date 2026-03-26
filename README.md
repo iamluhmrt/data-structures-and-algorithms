@@ -25,11 +25,25 @@ The goal of this project is to:
 
 Problems are organized by category:
 
+
+Problems are organized into two main categories:
+
+### 📦 Data Structures
 - 📁 Arrays
+- 📁 Lists
+- 📁 Matrices
+
+### ⚙️ Algorithms
+- 📁 Searching
+- 📁 Sorting
+- 📁 Recursion
+
+### 🧩 Fundamentals
 - 📁 Conditionals
 - 📁 Loops
 - 📁 Math
-- 📁 Searching
+
+### 📌 Others
 - 📁 Miscellaneous
 
 Each problem:
