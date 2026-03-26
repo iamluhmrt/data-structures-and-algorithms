@@ -7,19 +7,15 @@ import java.util.Scanner;
 public class Program {
     public static void main(String[] args) {
         /*
-         * Problem: Multiplication Table
+         * Problem: Count Divisors
          *
          * Description:
          * Write a program that reads an integer N.
-         * Then, print the multiplication table of N from 1 to 10.
+         * Then, count how many integers from 1 to N divide N exactly.
          *
          * Example:
-         * Input: 5
-         * Output:
-         * 5 x 1 = 5
-         * 5 x 2 = 10
-         * ...
-         * 5 x 10 = 50
+         * Input: 6
+         * Output: 4  // (1, 2, 3, 6)
          *
          * Category: Loops
          */
@@ -28,8 +24,8 @@ public class Program {
         Scanner sc = new Scanner(System.in);
 
         int number = readPositiveInt(sc, "Enter a positive integer: ");
-        printMultiplicationTable(number);
-
+        int divisorCount = countDivisorsOf(number);
+        System.out.println(divisorCount);
         sc.close();
 
     }
@@ -55,11 +51,15 @@ public class Program {
         }
     }
 
-    public static void printMultiplicationTable(int number) {
-        for (int i = 1; i <= 10; i++) {
-            int result = number * i;
-            System.out.printf("%d x %d = %d%n", number, i, result );
-        }
-    }
+    public static int countDivisorsOf(int number) {
 
+        int divisorCount = 0;
+        for (int i = 1; i <= number; i++) { // check all possible divisors
+            if (number % i == 0) {
+                divisorCount++;
+            }
+        }
+
+        return divisorCount;
+    }
 }

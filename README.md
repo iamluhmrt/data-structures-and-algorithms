@@ -45,7 +45,7 @@ Each problem:
 |---------------|-----------------|
 | Arrays        | 11              |
 | Conditionals  | 0               |
-| Loops         | 1               |
+| Loops         | 2               |
 | Math          | 0               |
 | Searching     | 0               |
 | Misc          | 0               |
