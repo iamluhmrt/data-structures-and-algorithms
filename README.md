@@ -41,14 +41,16 @@ Each problem:
 
 ## 📈 Progress
 
-| Category       | Problems Solved |
-|---------------|-----------------|
-| Arrays        | 11              |
-| Conditionals  | 0               |
-| Loops         | 2               |
-| Math          | 0               |
-| Searching     | 0               |
-| Misc          | 0               |
+| Category     | Problems Solved |
+|--------------|----------------|
+| Arrays       | 11             |
+| Matrices     | 0              |
+| Lists        | 0              |
+| Conditionals | 0              |
+| Loops        | 2              |
+| Math         | 0              |
+| Searching    | 0              |
+| Misc         | 0              |
 
 > This repository is continuously updated as I solve new problems.
 
