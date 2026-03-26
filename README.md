@@ -55,16 +55,31 @@ Each problem:
 
 ## 📈 Progress
 
+### 📦 Data Structures
+| Category | Problems Solved |
+|----------|----------------|
+| Arrays   | 11             |
+| Lists    | 0              |
+| Matrices | 0              |
+
+### ⚙️ Algorithms
+| Category  | Problems Solved |
+|-----------|----------------|
+| Searching | 0              |
+| Sorting   | 0              |
+| Recursion | 0              |
+
+### 🧩 Fundamentals
 | Category     | Problems Solved |
 |--------------|----------------|
-| Arrays       | 11             |
-| Matrices     | 0              |
-| Lists        | 0              |
 | Conditionals | 0              |
 | Loops        | 2              |
 | Math         | 0              |
-| Searching    | 0              |
-| Misc         | 0              |
+
+### 📌 Others
+| Category | Problems Solved |
+|----------|-----------------|
+| Misc     | 8               |
 
 > This repository is continuously updated as I solve new problems.
 
